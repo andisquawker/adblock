@@ -34,10 +34,10 @@ animation:adBlockInfoWobble .5s;
 -moz-animation:adBlockInfoWobble .5s;
 -webkit-animation:adBlockInfoWobble .5s;
 -o-animation:adBlockInfoWobble .5s;
-background: rgb(28, 167, 236);
-background: -moz-linear-gradient(top,  rgb(28, 167, 236) 0%, rgb(207,4,4) 100%);
-background: -webkit-linear-gradient(top,  rgb(28, 167, 236) 0%,rgb(207,4,4) 100%);
-background: linear-gradient(to bottom,  rgb(28, 167, 236) 0%,rgb(207,4,4) 100%);
+background: rgb(255,48,25);
+background: -moz-linear-gradient(top,  rgb(255,48,25) 0%, rgb(207,4,4) 100%);
+background: -webkit-linear-gradient(top,  rgb(255,48,25) 0%,rgb(207,4,4) 100%);
+background: linear-gradient(to bottom,  rgb(255,48,25) 0%,rgb(207,4,4) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 );
 }
 .adBlockTxt:hover{border:4px gold outset;}
